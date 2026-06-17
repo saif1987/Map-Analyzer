@@ -1,0 +1,6 @@
+{
+  "name": "Geodesic Map Analyzer",
+  "description": "Interactive educational and research tool for geodesic analysis, geodesic routing, nearest country boundaries, and geopolitical buffer zones with live D3.js projections.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
